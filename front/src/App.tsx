@@ -1,3 +1,7 @@
-const App = () => <div>Проверка связи</div>;
+const App = () => {
+  const result = fetch('');
+
+  return <div></div>;
+};
 
 export default App;
