@@ -4,6 +4,6 @@
 
 Описание веток:
 
-budget-1 - подготовка проекта к работе
-budget-2 - настройка eslint, prettier (prettier, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react)
-budget-3 - добавил Header (antd, sass)
+budget-1 - подготовка проекта к работе  
+budget-2 - настройка eslint, prettier (prettier, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react)  
+budget-3 - добавил Header (antd, sass)  
